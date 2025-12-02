@@ -55,3 +55,11 @@ Az alkalmazás valós időben megjeleníti:
 
 A felhasználó egy csúszkán mozgathatja az X értéket → a modell kiszámítja a hozzá tartozó Y-t.
 ![alt text](image-4.png)
+
+## Csomagok
+
+pip install streamlit scikit-learn pandas matplotlib
+
+## El inditás
+
+python -m streamlit run app.py
