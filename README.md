@@ -13,15 +13,13 @@ A felhasználó képes:
 - MSE hibamérték kiszámítására
 - Interaktív előrejelzésre sliderrel
 
-A projekt **VS Code** alatt futtatható, és egyetemi beadandókhoz tökéletes.
-
 ---
 
 ## Funkciók
 
-### 1. CSV fájl feltöltése (sidebar)
+### 1. CSV fájl feltöltése
 
-A felhasználó a bal oldali panelen keresztül tölthet fel `.csv` adatfájlt.
+A felhasználó a panelen keresztül tölthet fel `.csv` adatfájlt.
 ![alt text](image.png)
 
 ### 2. X és Y oszlopok kiválasztása
